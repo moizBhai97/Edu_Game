@@ -1,1 +1,2 @@
-# Edu_Game
+# SRS for 3D educational game
+
